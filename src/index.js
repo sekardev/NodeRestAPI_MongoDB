@@ -18,7 +18,7 @@ app.listen(constants.PORT, err => {
   if (err) {
       throw err;
   } else {
-      console.log(`Server running on port: ${constants.PORT} `);
+      console.log(`Server Running on port: ${constants.PORT} `);
   }
 });
 
